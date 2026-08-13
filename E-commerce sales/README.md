@@ -22,6 +22,22 @@ This repository contains Power BI projects that showcase my skills in **data ana
 
 An interactive Power BI dashboard designed to analyze sales performance and identify important business trends.
 
+📁 Project Structure
+
+The repository is organized as follows:
+
+E-Commerce-Executive-Dashboard/
+│
+├── data/
+│   └── e-commerce-data.csv
+│
+├── images/
+│   └── dashboard.png
+│
+├── E-COMMERCE EXECUTIVE DASHBOARD.pbix
+│
+└── README.md
+
 **Key Analysis:**
 
 * Total Sales and Profit
